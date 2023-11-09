@@ -15,8 +15,5 @@ Hayes, A. (2023, March 14). Variance. Investopedia. Retrieved August 1, 2023, fr
 
 Code2020. (2020, September 3). VS Code tips: The Editor Line Numbers setting. YouTube. Retrieved July 31, 2023, from https://www.youtube.com/watch?v=-yk_Bi4wSTQ&ab_channel=Code2020
 
-### Grade:
-![Screenshot 2023-10-15 215926](https://github.com/leeangel0428/Excel_analysis/assets/137225965/c0d9a0a2-dac6-4bbc-a6c9-a7fe4987f87c)
 
-![Screenshot 2023-10-15 215940](https://github.com/leeangel0428/Excel_analysis/assets/137225965/5b780df7-8c70-4b2e-8e3a-c2206c4cefc2)
 
